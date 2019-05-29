@@ -2,7 +2,9 @@
 title: "RR course"
 author: "Yuan Du"
 date: "May 29, 2019"
-output: html_document
+output: 
+  html_document:
+      keepmd: true
 ---
 
 *Italic*
@@ -71,4 +73,7 @@ git config --global core.editor 'nano'
 git init
 ```
 
-Here is some more text that I am adding.
+Here is some more text that I am adding. 
+Below from the github to push an existing repository from the commande line
+git remote add origin from github
+git push -u origin master
