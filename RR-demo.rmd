@@ -4,7 +4,7 @@ author: "Yuan Du"
 date: "May 29, 2019"
 output: 
   html_document:
-      keepmd: true
+      keep_md: true
 ---
 
 *Italic*
