@@ -66,14 +66,9 @@ max_iceland_lifeexp <- max(iceland$lifeExp)
 ```
 The maximium life expectancy in Iceland is `r max_iceland_lifeexp`.
 
-```
-git config --global user.name "Yuan Du"
-git config --global user.email "Yuan.du@adventhealth.com"
-git config --global core.editor 'nano'
-git init
-```
 
-Here is some more text that I am adding. 
-Below from the github to push an existing repository from the commande line
-git remote add origin from github
-git push -u origin master
+
+<!-- Here is some more text that I am adding.  -->
+<!-- Below from the github to push an existing repository from the commande line -->
+<!-- git remote add origin from github -->
+<!-- git push -u origin master -->
